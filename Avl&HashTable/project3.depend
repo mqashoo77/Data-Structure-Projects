@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1610716852 source:c:\users\hp\desktop\c project\project3\main.c
+	<stdlib.h>
+	<stdio.h>
+	<strings.h>
+	<stdbool.h>
+
+1609881059 c:\users\hp\desktop\c project\project3\hashtableproject3.h
+

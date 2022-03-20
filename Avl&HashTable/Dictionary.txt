@@ -1,0 +1,3 @@
+generous : generous  / generous  * Stingy
+modern :  new, developed  /  new, developed  *  old
+polite : kindly ,urbane  / kindly ,urbane  * impolite

@@ -1,0 +1,5 @@
+old: advanced in age, aged, antique / ancient * new
+open: enter / enter * close
+modern: new, developed / fresh * old
+polite:kindly ,urbane /gallant*impolite
+generous:generous /honorable*Stingy
